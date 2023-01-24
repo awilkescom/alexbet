@@ -4,10 +4,10 @@
   </a>
 </p>
 
-<h3 align="center">Bootstrap</h3>
+<h3 align="center">alexbet</h3>
 
 <p align="center">
-  Sleek, intuitive, and powerful front-end framework for faster and easier web development.
+  Sleek, intuitive, and powerful front-end framework for faster and easier sports betting development.
   <br>
   <a href="https://getbootstrap.com/docs/5.3/"><strong>Explore Bootstrap docs »</strong></a>
   <br>
