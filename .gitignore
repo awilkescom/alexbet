@@ -44,3 +44,9 @@ Thumbs.db
 # Builds to ignore
 /dist/
 /js/dist/
+/dist/*
+/js/dist/*
+dist/
+js/dist/
+dist/*
+js/dist/*
