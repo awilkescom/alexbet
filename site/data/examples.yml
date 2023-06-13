@@ -119,3 +119,17 @@
   examples:
     - name: "Masonry"
       description: "Combine the powers of the Bootstrap grid and the Masonry layout."
+
+- category: Sports Betting
+  description: "Sports Betting"
+  examples:
+    - name: "Event Page"
+      description: "Combine the powers of the Bootstrap grid and the Masonry layout."
+    - name: "Betslip"
+      description: "Combine the powers of the Bootstrap grid and the Masonry layout."
+
+- category: iGaming
+  description: "Casino, Live Dealer, Slot Games"
+  examples:
+    - name: "Casino Lobby"
+      description: "Combine the powers of the Bootstrap grid and the Masonry layout."

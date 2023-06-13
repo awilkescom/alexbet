@@ -1,7 +1,7 @@
 ---
 layout: docs
-title: Get started with Bootstrap
-description: Bootstrap is a powerful, feature-packed frontend toolkit. Build anything—from prototype to production—in minutes.
+title: Get started with alexbet
+description: Alexbet is a powerful, feature-packed gambling frontend toolkit. Build anything—from prototype to production—in minutes.
 group: getting-started
 aliases:
   - "/docs/5.3/getting-started/"
@@ -12,7 +12,7 @@ toc: true
 
 ## Quick start
 
-Get started by including Bootstrap's production-ready CSS and JavaScript via CDN without the need for any build steps. See it in practice with this [Bootstrap CodePen demo](https://codepen.io/team/bootstrap/pen/qBamdLj).
+Get started by including alexbet's production-ready CSS and JavaScript via CDN without the need for any build steps. See it in practice with this [Bootstrap CodePen demo](https://codepen.io/team/bootstrap/pen/qBamdLj).
 
 <br>
 
